@@ -24,7 +24,7 @@ function App() {
         <div>
           <button
             aria-label="Increment value"
-            onClick={() => dispatch(increment())}
+            onClick={() => dispatch(bncrement())}
           >
             Increment
           </button>
