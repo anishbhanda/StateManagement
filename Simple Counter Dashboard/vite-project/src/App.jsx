@@ -7,7 +7,7 @@ function App() {
   const dispatch = useDispatch()
   const notes = useSelector((state) => state.notes.notes)
   console.log(notes);
-
+// small changes
   return (
     <>
       <div>
